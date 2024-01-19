@@ -663,6 +663,14 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -729,6 +737,14 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -774,6 +790,14 @@
       "command": "rome",
       "url": "https://github.com/rome/tools",
       "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects.",
       "requires": [
         "npm"
       ]
@@ -1632,6 +1656,14 @@
       ]
     },
     {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
       "command": "deno",
       "url": "https://deno.land/",
       "description": "A modern runtime for JavaScript and TypeScript.",
@@ -1667,6 +1699,14 @@
       "command": "rome",
       "url": "https://github.com/rome/tools",
       "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+      "requires": [
+        "npm"
+      ]
+    },
+    {
+      "command": "biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects.",
       "requires": [
         "npm"
       ]

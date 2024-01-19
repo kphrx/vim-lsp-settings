@@ -116,6 +116,7 @@ You can change the directory to install servers by set `g:lsp_settings_servers_d
 | Hy                | hyuga                               |    Yes    |      No       |
 | JSON              | json-languageserver                 |    Yes    |      Yes      |
 | JSON              | rome                                |    Yes    |      Yes      |
+| JSON              | biome                               |    Yes    |      Yes      |
 | Jsonnet           | jsonnet-language-server             |    Yes    |      Yes      |
 | Java              | eclipse-jdt-ls                      |    Yes    |      Yes      |
 | Java              | java-language-server                |    No     |      Yes      |
@@ -124,6 +125,7 @@ You can change the directory to install servers by set `g:lsp_settings_servers_d
 | JavaScript        | rome                                |    Yes    |      Yes      |
 | JavaScript        | flow                                |    Yes    |      Yes      |
 | JavaScript        | eslint-language-server              |    Yes    |      Yes      |
+| JavaScript        | biome                               |    Yes    |      Yes      |
 | Julia             | LanguageServer.jl                   |    Yes    |      No       |
 | Kotlin            | kotlin-language-server              |    Yes    |      Yes      |
 | Lisp              | cl-lsp                              |    Yes    |      No       |
@@ -179,6 +181,7 @@ You can change the directory to install servers by set `g:lsp_settings_servers_d
 | TypeScript        | deno                                |    Yes    |      Yes      |
 | TypeScript        | rome                                |    Yes    |      Yes      |
 | TypeScript        | eslint-language-server              |    Yes    |      Yes      |
+| TypeScript        | biome                               |    Yes    |      Yes      |
 | Vim               | vim-language-server                 |    Yes    |      Yes      |
 | Vala              | vala-language-server                |    No     |      No       |
 | Veryl             | veryl-ls                            |    Yes    |      Yes      |
